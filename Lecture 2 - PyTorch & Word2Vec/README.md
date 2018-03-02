@@ -8,8 +8,7 @@
 *Дедлайн: 09:00 GMT+3 15.03.18*  
 1. Реализовать Skip-Gram модель.  
 2. Реализовать Negative Sampling для CBoW модели.  
-3. (По желанию) Разобраться со статьёй [Two/Too Simple Adaptations of Word2Vec for Syntax Problems
-] (http://www.cs.cmu.edu/~lingwang/papers/naacl2015.pdf) и реализовать Structured Skip-gram Model модель.
+3. (По желанию) Разобраться со статьёй [Two/Too Simple Adaptations of Word2Vec for Syntax Problems](http://www.cs.cmu.edu/~lingwang/papers/naacl2015.pdf) и реализовать Structured Skip-gram Model модель.
 
 Дополнительные материалы:  
 [On word embeddings - Part 1, by Sebastian Ruder](http://ruder.io/word-embeddings-1/)  
