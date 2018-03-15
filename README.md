@@ -19,7 +19,7 @@ Examples of Word2Vec models: CBOW, Skip-Gram and Negative Sampling.
 The [Colab notebook](https://colab.research.google.com/drive/15tg6jTt1F0oR5PzFlcZNBnpPiu4se1m3).  
 [Additional materials and deadlines](https://github.com/DanAnastasyev/DeepNLP-Course/tree/master/Lecture%202%20-%20PyTorch%20%26%20Word2Vec).
 
-### Lecture 3: *Recurrent Neural Networks, part 1.*  
+### Lecture 3: *Recurrent Neural Networks, part 1*  
 A simple implementation of the vanilla RNN and an illustration of the vanishing gradient problem.  
 Examples of character-level LSTMs for:
 - Text classification: language prediction by the surname's spelling;
@@ -27,3 +27,9 @@ Examples of character-level LSTMs for:
 
 The [Colab notebook](https://colab.research.google.com/drive/1mLUuEcEBAqw8WwlezEgkXhjeulOAE5fW).  
 [Additional materials and deadlines](https://github.com/DanAnastasyev/DeepNLP-Course/tree/master/Lecture%203%20-%20RNNs).
+
+### Lecture 4: *Recurrent Neural Networks, part 2*  
+An implementation of a character-level BiLSTM POS-tagger.  
+An overview of word-level language models: N-gram, fully-connected and RNN ones.  
+The [Colab notebook](https://colab.research.google.com/drive/1CN-OhE-mbYstkxyJ24NFcNy8SpYMAeM0).  
+[Additional materials and deadlines]().
