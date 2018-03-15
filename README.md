@@ -32,4 +32,4 @@ The [Colab notebook](https://colab.research.google.com/drive/1mLUuEcEBAqw8WwlezE
 An implementation of a character-level BiLSTM POS-tagger.  
 An overview of word-level language models: N-gram, fully-connected and RNN ones.  
 The [Colab notebook](https://colab.research.google.com/drive/1CN-OhE-mbYstkxyJ24NFcNy8SpYMAeM0).  
-[Additional materials and deadlines]().
+[Additional materials and deadlines](https://github.com/DanAnastasyev/DeepNLP-Course/tree/master/Lecture%204%20-%20RNNs%2C%20part%202).
