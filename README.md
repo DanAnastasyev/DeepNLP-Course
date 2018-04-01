@@ -33,3 +33,19 @@ An implementation of a character-level BiLSTM POS-tagger.
 An overview of word-level language models: N-gram, fully-connected and RNN ones.  
 The [Colab notebook](https://colab.research.google.com/drive/1CN-OhE-mbYstkxyJ24NFcNy8SpYMAeM0).  
 [Additional materials and deadlines](https://github.com/DanAnastasyev/DeepNLP-Course/tree/master/Lecture%204%20-%20RNNs%2C%20part%202).
+
+### Lecture 5: *Machine Translation*  
+An implementation of simple Seq2Seq model for machine translation.  
+An example of Attention-based machine translation model.   
+The [Colab notebook](https://colab.research.google.com/drive/1ZkxDQUcoc0LUjjiP6nlQwYuBPWLxZFZD).  
+[Additional materials and deadlines]().
+
+### Lecture 6: *Convolutional Neural Networks and Transformers*  
+An example of character-level convolutional neural network for word classification.  
+An explanation of similarities and difference between convolutions and attention.  
+An overview of Transformer architecture.    
+The [Colab notebook](https://colab.research.google.com/drive/1W5txH-ssmSSN7WEfP2iAkl7zHAgMQUcN).  
+[Additional materials and deadlines]().
+
+---
+[A questionnaire about the course](https://goo.gl/forms/7I9QUbc9FJwl2sNl1)
