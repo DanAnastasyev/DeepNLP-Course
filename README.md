@@ -4,8 +4,8 @@ Deep learning for NLP crash course at ABBYY.
 
 Suggested textbook: [Neural Network Methods in Natural Language Processing by Yoav Goldberg](https://www.amazon.com/Language-Processing-Synthesis-Lectures-Technologies/dp/1627052984)
 
-## Lecture Materials
-### Lecture 1: *Introduction*  
+## Materials
+### Week 1: *Introduction*  
 Sentiment analysis on the IMDB movie review dataset: a short overview of classical machine learning for NLP + indecently brief intro to keras.   
 
 <table class="tfo-notebook-buttons" align="left">
