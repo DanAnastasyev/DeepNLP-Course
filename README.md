@@ -33,3 +33,17 @@ Phrases similarity with word embeddings model + word based machine translation w
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+
+### Week 2: *Word Embeddings: Part 2*  
+Introduction to PyTorch. Implementation of pet linear regression on pure numpy and pytorch. Implementations of CBoW, skip-gram, negative sampling and structured Word2vec models.  
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1YruNhE5aEJfLpaCZSKGIaZ1hOQR5qoIG">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2003/Week_03_Word_Embeddings_(Part_2).ipynb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
