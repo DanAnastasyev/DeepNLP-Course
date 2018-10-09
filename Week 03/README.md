@@ -2,5 +2,5 @@
 
 - Задания, сделанные на семинаре: 5 баллов
 - Доделать CBoW модель: +1 балл
-- Реализовать Negative Sampling: +3 балл
+- Реализовать Negative Sampling: +4 балл
 - Structured Word2Vec: +2 балла
