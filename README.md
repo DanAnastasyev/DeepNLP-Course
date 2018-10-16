@@ -75,3 +75,17 @@ RNNs for text classification. Simple RNN implementation + memorization test. Sur
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+
+### Week 6: *RNNs: Part 2*  
+RNNs for sequence labelling. Part-of-speech tagger implementations based on word embeddings and character-level word embeddings.
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1A7dbNANHg8srCemnwFI8WB1wLhvmuJp0">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2006/Week_06_RNNs_part_2.ipynb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
