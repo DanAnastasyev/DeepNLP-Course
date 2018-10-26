@@ -89,3 +89,19 @@ RNNs for sequence labelling. Part-of-speech tagger implementations based on word
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+
+### Week 7: *Language Models: Part 1*  
+Character-level language model for Russian troll tweets generation: fixed-window model via convolutions and RNN model.  
+Simple conditional language model: surname generation given source language.  
+And Toxic Comment Classification Challenge .
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1W5uaNpKFoaq1gV9N9FpIAEDyrsGGRBBi">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2007/Week_07_Language_Models.ipynb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
