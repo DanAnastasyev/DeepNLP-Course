@@ -93,7 +93,7 @@ RNNs for sequence labelling. Part-of-speech tagger implementations based on word
 ### Week 7: *Language Models: Part 1*  
 Character-level language model for Russian troll tweets generation: fixed-window model via convolutions and RNN model.  
 Simple conditional language model: surname generation given source language.  
-And Toxic Comment Classification Challenge .
+And Toxic Comment Classification Challenge - to apply your skills to a real-world problem.
 
 <table class="tfo-notebook-buttons" align="left">
 <td>
