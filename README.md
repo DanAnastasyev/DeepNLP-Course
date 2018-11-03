@@ -105,3 +105,17 @@ And Toxic Comment Classification Challenge - to apply your skills to a real-worl
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+
+### Week 8: *Language Models: Part 2*  
+Word-level language model for poetry generation. Pet examples of transfer learning and multi-task learning applied to language models.
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1lUlBsdvAYJc5rLHwkOICyFhvns5Ssp1X">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2008/Week_08_Language_Models_(Part_2).ipynb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
