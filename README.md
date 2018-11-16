@@ -119,3 +119,17 @@ Word-level language model for poetry generation. Pet examples of transfer learni
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+
+### Week 9: *Seq2seq*  
+Seq2seq for machine translation and image captioning. Byte-pair encoding, beam search and other usefull stuff for machine translation.
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1jSYWuEGwik2lnnvGSU_PyXTFtbRKSyz_">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2009/Week_09_Seq2seq.ipynbb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
