@@ -129,7 +129,7 @@ Seq2seq for machine translation and image captioning. Byte-pair encoding, beam s
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
 </td>
 <td>
-	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2009/Week_09_Seq2seq.ipynbb">
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2009/Week_09_Seq2seq.ipynb">
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
@@ -139,11 +139,11 @@ Seq2seq with attention for machine translation and image captioning.
 
 <table class="tfo-notebook-buttons" align="left">
 <td>
-	<a target="_blank"  href="https://colab.research.google.com/drive/1jSYWuEGwik2lnnvGSU_PyXTFtbRKSyz_">
+	<a target="_blank"  href="https://colab.research.google.com/drive/1xZed_YAQf20fYacr9anE7T4EsdC_R0Oy">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
 </td>
 <td>
-	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2009/Week_09_Seq2seq.ipynbb">
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2010/Week_10_Seq2seq_with_Attention.ipynb">
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
