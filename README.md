@@ -147,3 +147,32 @@ Seq2seq with attention for machine translation and image captioning.
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+
+### Week 11: *Transformers & Text Summarization*  
+Implementation of Transformer model for text summarization. Discussion of Pointer-Generator Networks for text summarization.
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1wy5BDHZVEm-vSeH8U4Xh0Sm3bArwVWGU">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2011/Week_11_Transformers.ipynb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
+
+### Week 12: *Dialogue Systems: Part 1*  
+Goal-orientied dialogue systems. Implemention of the multi-task model: intent classifier and token tagger for dialogue manager.
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1lNhbHboRYVb-caV7Ktj9cWJnHW7DPD9-">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2012/Week_12_Dialogue_Systems_(Part_1).ipynb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
+
