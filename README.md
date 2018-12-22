@@ -190,3 +190,16 @@ General conversation dialogue systems and DSSMs. Implementation of question answ
 </td>
 </table>
 
+### Week 14: *Pretrained Models*  
+Pretrained models for various tasks: Universal Sentence Encoder for sentence similarity, ELMo for sequence tagging (with a bit of CRF), BERT for SWAG - reasoning about possible continuation.
+
+<table class="tfo-notebook-buttons" align="left">
+<td>
+	<a target="_blank"  href="https://colab.research.google.com/drive/1WMspBJe-m0mJHb7SbDTj64W-5-3AxW7v">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>  
+</td>
+<td>
+	<a target="_blank"  href="https://github.com/DanAnastasyev/DeepNLP-Course/blob/master/Week%2014/Week_14_Pretrained_Models.ipynb">
+	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
+</td>
+</table>
