@@ -203,3 +203,6 @@ Pretrained models for various tasks: Universal Sentence Encoder for sentence sim
 	<img width=32px src="https://www.tensorflow.org/images/GitHub-Mark-32px.png" />View source on GitHub</a>
 </td>
 </table>
+
+### Final Presentation
+[NLP Summary](https://drive.google.com/open?id=16GV-jSGtMAQPJgO_B6q1gLYXL10vM8Ev) - summary of cool stuff that appeared and didn't in the course.
